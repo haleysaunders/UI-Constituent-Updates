@@ -1,6 +1,6 @@
 #Written by Haley Saunders, 2021 General Assembly Session intern for Senator Lam's office
 #Please contact me at 310-912-4680 or haleysaunders17@gmail.com with questions regarding this program.
-#DO NOT USE WITHOUT PERMISSION. THIS SOURCE CODE IS INTENDED FOR INTENRAL USE WITH SEN LAM'S D12 OFFICE.
+#DO NOT USE WITHOUT PERMISSION. LICENSING REQUIRED. THIS SOURCE CODE IS INTENDED FOR INTERNAL USE WITH SEN LAM'S D12 OFFICE.
 
 import csv
 with open("d12_tracker.csv","r") as d12_tracker, \
